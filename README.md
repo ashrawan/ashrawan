@@ -1,11 +1,12 @@
 <h1 align="center">Hi! there, 👋 I'm <strong>Shrawan Adhikari</strong></h1>
 <h3 align="center">I'm a Software Engineer</h3>
 
-🔭 I’m currently working on [MeroEdu](https://github.com/meroedu)                
-⚡ I'm Fond of Web and Open Source  
+🔭 I’m currently working on project [MeroEdu](https://github.com/meroedu)                
+⚡ Loves to work on Web and Open Source  
 🌱 Have worked on __Java__, __Spring__, __Python__, __Django__ and __NodeJs__  
 🌱 And on __JavaScript__,  __React__ and __Angular__  
 🤔 Loves to explore new stuffs and contribute  
+<hr/>
 
 👨‍💻 All of my personal projects are available at [https://www.adhikarishrawan.com.np](https://www.adhikarishrawan.com.np)  
 📝 I regulary write articles on [https://codegrave.com](https://codegrave.com)  
