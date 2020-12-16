@@ -12,7 +12,8 @@
 📝 I regulary write articles on [https://codegrave.com](https://codegrave.com)  
 💬 Ask me about **Java, Spring and Angular**  
 
-💬 Want to talk about something, feel free to reach me out.
+💬 Want to talk about something, feel free to reach me out.   
+Telegram: https://t.me/ashrawan
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
