@@ -1,7 +1,7 @@
 <h1 align="center">Hi! there, 👋 I'm <strong>Shrawan Adhikari</strong></h1>
 <h3 align="center">I'm a Software Engineer</h3>
 
-🔭 I’m currently working on project [MeroEdu](https://github.com/meroedu)                
+🔭 I’m currently working on some personal projects.                
 ⚡ Loves to work on Web and Open Source  
 🌱 Have worked on __Java__, __Spring__, __Python__, __Django__ and __NodeJs__  
 🌱 And on __JavaScript__,  __React__ and __Angular__  
