@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shrawan Adhikari</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashrawan" alt="ashrawan" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -9,4 +8,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrawan&show_icons=true&locale=en" alt="ashrawan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrawan&" alt="ashrawan" /></p>
