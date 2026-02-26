@@ -5,7 +5,6 @@
 
 &nbsp;
 
-**Philosophy:**  
 > *A program, the universe is.*  
 > *Manifestation writes the code.*  
 > *Letting go... runs it, it does.*  
